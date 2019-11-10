@@ -21,7 +21,7 @@ class SecondaryActivity : AppCompatActivity() {
 
     private fun setupView() {
         requestButton.setOnClickListener {
-            viewModel.onPerformFakeRequestClicked2()
+            viewModel.onPerformFakeRequestClicked()
         }
     }
 }
