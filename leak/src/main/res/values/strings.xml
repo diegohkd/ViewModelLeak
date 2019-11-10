@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewModelLeak</string>
+    <string name="perform_fake_request">Perform fake request</string>
+    <string name="show_secondary_screen">Show secondary screen</string>
+    <string name="finish_request">Finish fake request</string>
+</resources>

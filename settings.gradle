@@ -1,0 +1,2 @@
+include ':leak', ':leakfix'
+rootProject.name='ViewModelLeak'

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewModelLeak.iml" filepath="$PROJECT_DIR$/ViewModelLeak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leak/leak.iml" filepath="$PROJECT_DIR$/leak/leak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leakfix/leakfix.iml" filepath="$PROJECT_DIR$/leakfix/leakfix.iml" />
+    </modules>
+  </component>
+</project>
