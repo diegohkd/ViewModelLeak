@@ -1,1 +1,1 @@
-<img src="slide_animation.gif" width="48">
+<img src="slide_animation.gif" width="300">
