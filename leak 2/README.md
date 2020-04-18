@@ -1,1 +1,1 @@
-![](slide_animation.gif | width=100)
+![](slide_animation.gif =250x250)
