@@ -1,1 +1,1 @@
-![](slide_animation.gif =250x250)
+<img src="slide_animation.gif" width="48">
