@@ -1,1 +1,3 @@
-<img src="slide_animation.gif" width="200" class="center">
+<p align="center">
+	<img src="slide_animation.gif" width="200">
+</p>
